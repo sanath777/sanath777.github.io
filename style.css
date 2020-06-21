@@ -1,0 +1,21 @@
+canvas {
+    background-color:snow;position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);
+}
+#scoreboard{
+    width:640px;height:380px;position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);
+}
+#scoreboard .inner-board{
+    width: inherit;
+    height: inherit;
+    position: relative;
+}
+#scoreboard .inner-board .messages{
+    position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);width: inherit;height: inherit;
+}
+
+#scoreboard .inner-board .messages .try-again{
+    background-image: url("./assets/images/crashed.png");
+    width: inherit;
+    height: inherit;
+    display: none;
+}
