@@ -34,7 +34,7 @@ check the console to get mouse event positions and road-lane
 
 On Clicking left mouse the car is restarted its position from top to bottom
 
-### BCollision Detection
+### Collision Detection
 
 A message is popped at every straight head to head collision
 
