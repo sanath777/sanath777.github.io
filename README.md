@@ -41,3 +41,13 @@ A message is popped at every straight head to head collision
 ```
 Press Spacebar to revive after collision
 ```
+## Deployment
+
+1.By Running on any Live Server in Local Host because of the JavaScript (type=module)
+2.Try using VS Code or Brackets for deploying Live server
+
+## Built With
+
+* HTML CSS
+* JavaScript and Jquery framework
+* Canvas element in HTML5
